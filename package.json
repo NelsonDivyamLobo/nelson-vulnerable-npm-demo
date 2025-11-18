@@ -1,0 +1,19 @@
+{
+  "name": "nelson-vulnerable-demo",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable Node.js project for VeeCLI fix-left testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.11",
+    "mongoose": "5.4.0",
+    "jsonwebtoken": "8.1.0",
+    "minimist": "1.2.0",
+    "axios": "0.21.0",
+    "debug": "2.6.8",
+    "handlebars": "4.0.5"
+  }
+}
