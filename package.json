@@ -15,7 +15,8 @@
     "axios": "0.21.0",
     "debug": "2.6.8",
     "handlebars": "4.0.5",
-    "npm:minimist:1.2.0": "1.2.8"
+    "npm:minimist:1.2.0": "1.2.8",
+    "npm:express:4.17.1": "4.17.23"
   },
   "devDependencies": {},
   "optionalDependencies": {},
